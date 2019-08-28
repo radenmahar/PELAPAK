@@ -15,7 +15,11 @@ class Home extends React.Component {
           </div>
           <div className="row justify-content-center">
             <div className="col-md-8 text-center">
-              <h6 className="hometext">Raden</h6>
+              <h6 className="hometext">
+                This is a place where you can trade your car, with the security
+                we provide, and the comfort we promised, you will easily find a
+                buyer for your car.
+              </h6>
             </div>
           </div>
           <div className="row justify-content-center">
